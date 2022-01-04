@@ -1,44 +1,37 @@
-# score-keeper-app
-🔢 Score Keeper App
+## About The Project
 
-## ❔ About
+JS Score Keeper
 
-🔢 Score Keeper Application made with HTML, CSS, Javascript
-
-## 🏗️ Built With
-
-- HTML
-- CSS
-- Javascript
-
-## 🔍 Website Preview
+### 🔍 Image Preview
 
 ![Imgur](https://i.imgur.com/HFlw7ef.png)
 
-## 📝️ Website Features
+### 🏗️ Built With
 
-Score Keeper
-- Add player score
-- Reset
-- Save(local)
-- Display score
-- Delete score
+- HTML5, CSS3, Javascript
 
-## Installing
+<!-- GETTING STARTED -->
 
-Open HTML file to test
+### 📝️Prerequisites
 
-## Running the tests
+### 🛠️ Installation
 
-Run the app with
+Download or create your own copy and run the index.html
 
 ```
-
+git clone
 ```
 
-## Deployment
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+
+## Contact
+
+<!-- Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com -->
 
 
-## 🧔 Authors
-
-- **Louie** - _Initial work_
